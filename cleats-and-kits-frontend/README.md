@@ -1,4 +1,4 @@
-# buy-jerseys
+# cleats and kits
 
 ## Project setup
 ```
